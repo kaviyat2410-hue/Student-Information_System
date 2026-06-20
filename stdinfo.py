@@ -1,0 +1,15 @@
+print("--- STUDENT INFORMATION ---")
+name=input("Enter Student Name:")
+register_no=input("Enter Register No:")
+department=input("Enter Depatment:")
+year=input("Enter Year:")
+phone_no=input("Enter Phone no:")
+email_id=input("Enter Email ID:")
+
+print("\n --- STUDENT DETAILS ---")
+print("Name:",name)
+print("Register Number:",register_no)
+print("Department / Year:",department,"/",year)
+print("phone No / Email:",phone_no,"/",email_id)
+
+print("\n STUDENT INFORMATION SAVED SUCCESSFULLY")
